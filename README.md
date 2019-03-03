@@ -279,11 +279,11 @@ You should see Hello World printed. Underneath you will see that it outputs `und
 
   1. What happens if you do:
 
-    ```x + y```
+    x + y
 
     or
 
-    ```y * 4```
+    y * 4
 
   2. We can even update the variable like this:
 
