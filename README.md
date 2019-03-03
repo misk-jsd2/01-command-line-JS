@@ -287,11 +287,11 @@ You should see Hello World printed. Underneath you will see that it outputs `und
 
   2. We can even update the variable like this:
 
-    `x = 9`
+    x = 9
 
   3. Now if we add x and y together we get a different result.
 
-    `x + y`
+    x + y
 
   4. While this is only the tip of the iceberg, it starts to lay the foundation for us in terms of what we will be able to accomplish in the near future.
 
