@@ -189,13 +189,9 @@ GitHub's collaborative process can work many different ways, but this is the mos
 
 * **Git** - A version control program that saves the state of your project's files and folders; It takes a "snapshot" of what all your files look like at that moment and stores a reference to that "snapshot".
 
->Note: You may want to compare Git to an organizational backup tool used to save and organize work; be mindful of your students' experience and try not to use too much technical vocabulary.
-
 * **Repository** - A central location in which data—typically project-related—is stored and managed
 * **Clone** - To download data from the cloud to your local machine (laptop, computer, etc.)
 * **Commit** - To save a version of your project to Git
-
->Note: We suggest you draw a diagram and explain what happens when you push/pull and stage a commit. Make sure students understand that changes first need to be added and then committed before they can be pushed. Remember to explain the differences between your local working repository vs. what is on GitHub. And don’t forget to review the vocabulary!
 
 ### GitHub Exercise
 
