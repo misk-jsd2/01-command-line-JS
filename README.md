@@ -118,8 +118,6 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 8. Create an empty directory within the `misk_js` folder and remove it. ```mkdir test_folder ``` and ```rmdir test_folder ```
 
->Note: Be sure to explain each command while students code along. Switch back to the finder often, so students can make the connection between how the GUI and CLI function.
-
 #### More Independent Practice
 
 Complete the following instructions below in the Terminal application.
