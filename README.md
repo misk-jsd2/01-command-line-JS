@@ -112,9 +112,9 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 1.  Navigate to your Documents Folder from your Root Directory. ```cd ~``` and then ```cd Documents```
 
-2. Create a directory named Advanced_JS.  ```mkdir Advanced_JS```
+2. Create a directory named `misk_js`.  ```mkdir misk_js```
 
-3. Change into this directory. ```cd Advanced_JS```
+3. Change into this directory. ```cd misk_js```
 
 4. Create a file named "index.html" using the touch command. ```touch index.html```
 
@@ -124,7 +124,7 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 7. Using HTML comments, type "This is how you should take notes in class." Some students will need a refresher on how to write HTML comments (i.e., `<!-- comment -->`). Briefly explain comments and let students know we will be covering comments in greater depth during the next lesson.
 
-8. Create an empty directory within the Advanced JS folder and remove it. ```mkdir test_folder ``` and ```rmdir test_folder ```
+8. Create an empty directory within the `misk_js` folder and remove it. ```mkdir test_folder ``` and ```rmdir test_folder ```
 
 >Note: Be sure to explain each command while students code along. Switch back to the finder often, so students can make the connection between how the GUI and CLI function.
 
@@ -132,26 +132,26 @@ Here are some important UNIX commands to know as you're working on the terminal.
 
 Complete the following instructions below in the Terminal application.
 
-1. Create a folder in your ~/Sites/ folder titled goals.
+1. Create a folder in your `~/Documents/misk_js` folder titled goals.
 
 2. Once inside that folder, create three empty files:
   - goals.html
   - worries.html
   - index.html
 
-3. Open Sublime Text, click File > Open and navigate to your newly created ~/Sites/goals folder.
+3. In the Terminal, run `subl .` inside your newly created `~/Documents/misk_js/goals` folder.
 In the respective files (goals.html and worries.html), write your top three goals and top three worries for this course.
 
 4. Paste the following contents into index.html:
 
   ```javascript
   <html>
-  <head></head>
-  <body>
-    <a href="goals.html"><img src="http://i.imgur.com/dosK05U.gif" /></a>
-    <br>
-    <a href="worries.html"><img src="http://i.imgur.com/2s0HwpM.gif" /></a>
-  </body>
+   <head></head>
+   <body>
+     <a href="goals.html"><img src="http://i.imgur.com/dosK05U.gif" /></a>
+     <br>
+     <a href="worries.html"><img src="http://i.imgur.com/2s0HwpM.gif" /></a>
+   </body>
   </html>
   ```
 
