@@ -199,13 +199,9 @@ GitHub's collaborative process can work many different ways, but this is the mos
 
 ### GitHub Exercise
 
-In this codealong, students will create their first GitHub repository and push to it.
-
->Note: The instructional team should walk the room and help any students who get stuck during this codealong. This will be many students’ first time using the terminal for an extended period, so proceed slowly, make sure they understand their tasks, and take time to explain anything that’s not clear.
+In this codealong, students will create their first GitHub repository and push to it
 
 **Creating and pushing to your first repository**
-
-  >Note: During this stage of the codealong, the instructional team should also explain what each component of each command means (i.e., the "." or "origin").
 
 1. Create a new repository on github.com titled `username.github.io` (where "username" is your GitHub username).
 2. ```cd``` into your ```~/Documents/misk_js``` folder.
