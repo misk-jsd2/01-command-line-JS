@@ -22,8 +22,6 @@
 - Writing pseudocode and think programmatically.
 - Using HTML and CSS to create static Web pages.
 
->Note: In the last class, students set their computers up with command line tools like Git and Node, and they worked on a pseudocode exercise. Check to make sure everyone understands the materials covered in the last class and has their command line utilities installed and configured.
-
 ---
 <a name="opening"></a>
 ## JS & Web Tech (20 min)
@@ -47,8 +45,6 @@ Citation: [W3C](https://www.w3.org/community/Webed/wiki/What_can_you_do_with_Jav
 
 #### Node.js
 
->Note: Students should be made aware that we will be using Node during Unit 1 so we can run JavaScript on the command line. This will allow us to learn the fundamentals of programming and the syntax of JavaScript without the distractions of the browser.
-
 We will be using node.js to interpret JS code in the class. Here's a bit more about Node.js.
 
 The makers of Node.js made JavaScript (which normally runs only in the browser) available on the server side (and on your computer!). This allows you to build fast, scalable APIs and sites in JavaScript. JavaScript is already immensely popular; being able to use it on the back-end adds the option of using a single programming language throughout an entire full-stack application.
@@ -63,8 +59,6 @@ Think of it this way: A paperboy throws a newspaper on your porch and immediatel
 
 
 #### Frameworks
-
-> Note: Due to the increasing popularity of front-end frameworks, many students will wonder when they will be learning Angular, React, Ember, etc. The purpose of this section is to set clear expectations for what will be covered in the course and why. Toward the end of the course, you will have an opportunity to teach [an intro lesson on a JS framework of your choice](../16-instructor-student-choice/readme.md). We recommend you mention this now to give students who are excited about frameworks something to look forward to.
 
 * As with all programming languages, several frameworks and libraries are available that extend JavaScript's native capabilities. In this class, we won't be using frameworks. We will however be learning a popular JS libarary, jQuery, and a templating engine called Handlebars.
 
@@ -179,8 +173,6 @@ GitHub is a platform that:
 * Facilitates the sharing and managing of code, making it easy for multiple engineers to collaborate on the same project.
 * Hosts files on the Web so you can share the finished product with other people
 
-We setup our GitHub account and _SSH Key_ in the last lesson.
-
 #### Why is GitHub So Popular with Developers?
 
 * Much like Dropbox or Google Drive lets multiple people collaborate on the same document; GitHub allows this for code
@@ -227,14 +219,7 @@ In this codealong, students will create their first GitHub repository and push t
 6. Add all files in the ```~/misk_js/username.github.io``` folder to the Git stage.
 7. Commit your changes in Git with the message "Initial commit."
 8. Push your changes to GitHub and verify that the changes were received in the Web interface
-9. Try visiting https://username.github.io/goals (where "username" is your actual GitHub username)
-
-  > Note: This exercise can require helping students on lots of small, fiddly
-  > points such as using HTTPS vs SSH (they should use SSH as we set that up
-  > last lesson), accidentally initializing a respository with a `README.md`
-  > file requiring a `git push -f` to overwrite, etc.
-
-  >Note: Many students will not have mastered GitHub, even after completing this exercise. Assure them that practice makes perfect and that we'll be using GitHub regularly throughout the course. We _highly recommend_ that you continue to demo the basic GitHub workflow in class. That is, after completing an exercise in class, push it up to GitHub.
+9. Try visiting https://username.github.io/goals (where "username" is your actual GitHub username
 
 ---
 
