@@ -219,12 +219,12 @@ In this codealong, students will create their first GitHub repository and push t
 
   >Note: During this stage of the codealong, the instructional team should also explain what each component of each command means (i.e., the "." or "origin").
 
-1. Create a new repository on github.com titled "username.github.io" (where "username" is your GitHub username).
-2. ```cd``` into your ```~/Sites``` folder.
+1. Create a new repository on github.com titled `username.github.io` (where "username" is your GitHub username).
+2. ```cd``` into your ```~/Documents/misk_js``` folder.
 3. Clone the repository (hint: GitHub tells you how to do this with Git clone ... on the newly created repository page).
-4. ```cd``` into your ```~/Sites/username.github.io``` folder.
-5. Move the files from your "goals" folder from the previous exercise into your ```~/Sites/username.github.io``` folder.
-6. Add all files in the ```~/Sites/username.github.io``` folder to the Git stage.
+4. ```cd``` into your ```~/misk_js/username.github.io``` folder.
+5. Move the files (`mv`) from your "goals" folder from the previous exercise into your ```~/misk_js/username.github.io``` folder.
+6. Add all files in the ```~/misk_js/username.github.io``` folder to the Git stage.
 7. Commit your changes in Git with the message "Initial commit."
 8. Push your changes to GitHub and verify that the changes were received in the Web interface
 9. Try visiting https://username.github.io/goals (where "username" is your actual GitHub username)
